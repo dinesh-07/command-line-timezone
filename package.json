@@ -1,0 +1,23 @@
+{
+  "name": "command-line-timezone",
+  "version": "1.0.0",
+  "description": "Command line util to provide timezone information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh-07/command-line-timezone.git"
+  },
+  "author": "Dinesh kini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh-07/command-line-timezone/issues"
+  },
+  "homepage": "https://github.com/dinesh-07/command-line-timezone#readme",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31"
+  }
+}
